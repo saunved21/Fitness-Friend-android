@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "259329920640",
+    "project_id": "database-b083f",
+    "storage_bucket": "database-b083f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259329920640:android:cfab8184d4ab493fd3e065",
+        "android_client_info": {
+          "package_name": "com.example.fitnessfriend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhBipSXOd-3qrDnd5bLHjkNCAQBOR9B8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
